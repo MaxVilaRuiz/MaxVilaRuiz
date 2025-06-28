@@ -75,7 +75,7 @@ Motivated by continuous growth, my goal is to take on challenging IT roles, cont
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVilaRuiz&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVilaRuiz&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 
