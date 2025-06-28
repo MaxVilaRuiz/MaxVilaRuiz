@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Max Vilà Ruiz 👋</h1>
-<br/>
-<p align="center">
-  Computer Engineering student | Passionate about Full-Stack Development & Team Leadership
-</p>
+
+<p align="center"><strong><em>
+Computer Engineering student | Passionate about Full-Stack Development & Team Leadership
+</em></strong></p>
 
 
 ## About Me
