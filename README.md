@@ -1,13 +1,14 @@
-# Hi, I'm Max Vilà Ruiz 👋
-Computer Engineering student | Passionate about Full-Stack Development & Team Leadership
+<h1 align="center">Hi, I'm Max Vilà Ruiz 👋</h1>
+<br/>
+<p align="center">
+  Computer Engineering student | Passionate about Full-Stack Development & Team Leadership
+</p>
 
 
 ## About Me
 
-I’m a passionate and methodical Computer Engineering student with a strong focus on software development, full-stack technologies, and team leadership. I bring together technical expertise and effective communication to build clean, efficient, and user-centered digital solutions.
-
-I’m continuously developing full-stack projects to enhance my skills in Python, C++, JavaScript, HTML/CSS, and modern frameworks. Beyond coding, I thrive in collaborative environments and enjoy taking on leadership roles that drive both technical progress and team success.
-
+Computer Engineering student passionate about software development, full-stack technologies, and team leadership. I create user-focused digital solutions and continuously build personal projects using Python, C++, JavaScript, and modern frameworks like React and Node.js. 
+I thrive in collaborative environments and enjoy taking on leadership roles that drive both technical progress and team success.
 Motivated by continuous growth, my goal is to take on challenging IT roles, contribute to impactful technological innovations, and grow as both a developer and a leader.
 
 - 💻 Full-stack developer experienced with Python, C++, JavaScript, HTML/CSS
@@ -36,7 +37,6 @@ Motivated by continuous growth, my goal is to take on challenging IT roles, cont
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind CSS"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" title="Sass"/>&nbsp;
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
