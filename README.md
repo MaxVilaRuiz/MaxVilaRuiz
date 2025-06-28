@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Max Vilà Ruiz 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=32&pause=1000&color=007ACC&width=435&lines=Hi,+I'm+Max+Vilà+Ruiz+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center"><strong><em>
 Computer Engineering student | Passionate about Full-Stack Development & Team Leadership
@@ -73,3 +73,13 @@ Motivated by continuous growth, my goal is to take on challenging IT roles, cont
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVilaRuiz&layout=compact&theme=tokyonight" width="40%" />
 </p>
+
+
+## Contact Information
+
+<a href="https://www.linkedin.com/in/max-vilà-ruiz-6ab328356" target="_blank" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:maxvilaruiz123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
